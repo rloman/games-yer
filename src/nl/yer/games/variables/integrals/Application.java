@@ -1,4 +1,4 @@
-package nl.yer.games.variables;
+package nl.yer.games.variables.integrals;
 
 public class Application {
 
